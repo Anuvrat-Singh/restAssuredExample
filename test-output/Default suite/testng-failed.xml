@@ -5,7 +5,6 @@
     <classes>
       <class name="diffWaysOfPOSTReq.DiffWaysOfPostReq">
         <methods>
-          <include name="testPOSTWithHashmap"/>
           <include name="deleteCreatedRecord"/>
         </methods>
       </class> <!-- diffWaysOfPOSTReq.DiffWaysOfPostReq -->
